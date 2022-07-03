@@ -1,0 +1,12 @@
+C:\Users\18120212004\Documents\GitHub\odev-2-BetulAlbayrak1999\UsingAbstractClass-Patika.dev\EntityLaye\bin\Debug\net5.0\EntityLaye.deps.json
+C:\Users\18120212004\Documents\GitHub\odev-2-BetulAlbayrak1999\UsingAbstractClass-Patika.dev\EntityLaye\bin\Debug\net5.0\EntityLaye.dll
+C:\Users\18120212004\Documents\GitHub\odev-2-BetulAlbayrak1999\UsingAbstractClass-Patika.dev\EntityLaye\bin\Debug\net5.0\ref\EntityLaye.dll
+C:\Users\18120212004\Documents\GitHub\odev-2-BetulAlbayrak1999\UsingAbstractClass-Patika.dev\EntityLaye\bin\Debug\net5.0\EntityLaye.pdb
+C:\Users\18120212004\Documents\GitHub\odev-2-BetulAlbayrak1999\UsingAbstractClass-Patika.dev\EntityLaye\obj\Debug\net5.0\EntityLaye.csproj.AssemblyReference.cache
+C:\Users\18120212004\Documents\GitHub\odev-2-BetulAlbayrak1999\UsingAbstractClass-Patika.dev\EntityLaye\obj\Debug\net5.0\EntityLaye.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\18120212004\Documents\GitHub\odev-2-BetulAlbayrak1999\UsingAbstractClass-Patika.dev\EntityLaye\obj\Debug\net5.0\EntityLaye.AssemblyInfoInputs.cache
+C:\Users\18120212004\Documents\GitHub\odev-2-BetulAlbayrak1999\UsingAbstractClass-Patika.dev\EntityLaye\obj\Debug\net5.0\EntityLaye.AssemblyInfo.cs
+C:\Users\18120212004\Documents\GitHub\odev-2-BetulAlbayrak1999\UsingAbstractClass-Patika.dev\EntityLaye\obj\Debug\net5.0\EntityLaye.csproj.CoreCompileInputs.cache
+C:\Users\18120212004\Documents\GitHub\odev-2-BetulAlbayrak1999\UsingAbstractClass-Patika.dev\EntityLaye\obj\Debug\net5.0\EntityLaye.dll
+C:\Users\18120212004\Documents\GitHub\odev-2-BetulAlbayrak1999\UsingAbstractClass-Patika.dev\EntityLaye\obj\Debug\net5.0\ref\EntityLaye.dll
+C:\Users\18120212004\Documents\GitHub\odev-2-BetulAlbayrak1999\UsingAbstractClass-Patika.dev\EntityLaye\obj\Debug\net5.0\EntityLaye.pdb

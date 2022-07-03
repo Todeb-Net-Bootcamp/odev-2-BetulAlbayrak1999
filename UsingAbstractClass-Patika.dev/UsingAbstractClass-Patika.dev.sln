@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingAbstractClass-Patika.dev", "UsingAbstractClass-Patika.dev\UsingAbstractClass-Patika.dev.csproj", "{3FF0E4C0-2D71-40E2-A81B-6FB81B903217}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityLaye", "EntityLaye\EntityLaye.csproj", "{801F314D-292A-469E-8E5B-CB8DC78D8659}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FF0E4C0-2D71-40E2-A81B-6FB81B903217}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FF0E4C0-2D71-40E2-A81B-6FB81B903217}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FF0E4C0-2D71-40E2-A81B-6FB81B903217}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FF0E4C0-2D71-40E2-A81B-6FB81B903217}.Release|Any CPU.Build.0 = Release|Any CPU
+		{801F314D-292A-469E-8E5B-CB8DC78D8659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{801F314D-292A-469E-8E5B-CB8DC78D8659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{801F314D-292A-469E-8E5B-CB8DC78D8659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{801F314D-292A-469E-8E5B-CB8DC78D8659}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BC9E66A-68A7-4346-87AA-685573B78F51}
+	EndGlobalSection
+EndGlobal

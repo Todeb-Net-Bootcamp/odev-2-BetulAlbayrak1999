@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "UsingAbstractClass-Patika.dev/1.0.0": {
+        "dependencies": {
+          "EntityLaye": "1.0.0"
+        },
+        "runtime": {
+          "UsingAbstractClass-Patika.dev.dll": {}
+        }
+      },
+      "EntityLaye/1.0.0": {
+        "runtime": {
+          "EntityLaye.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UsingAbstractClass-Patika.dev/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EntityLaye/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
